@@ -1,2 +1,4 @@
 # Decentralized-Constrained-Optimization
-codes for the DAGP algorithm
+
+
+This repository contains the code for both the DAGP papers, where the second one is the journal version of the first one. 
