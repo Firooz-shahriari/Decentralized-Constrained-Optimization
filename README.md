@@ -40,14 +40,4 @@ This section covers the experiments related to Decentralized Optimal Transport, 
 
 ## Dependencies and Environment Setup
 
-The dependencies for this project are the same as those listed in our other repository, given that the same environment was used for development. To replicate the environment, you can install the dependencies using:
-
-```bash
-pip install -r requirements.txt
-```
-
-We recommend setting up a virtual environment to avoid any conflicts with existing installations. If you encounter issues with unnecessary dependencies or conflicts, consider manually adjusting the `requirements.txt` file or installing only the essential packages.
-
----
-
-Feel free to adjust the "Project Title" and any specific details to better fit your project's needs. This template provides a clear overview of your project's structure, instructions on running the experiments, and notes on setting up the environment.
+The `requirements.txt` file in this repository lists all the libraries and packages installed in the Anaconda environment used for developing and testing the experiments. It is important to note that this list may include more packages than are strictly necessary for running the experiments, as it reflects the entire environment setup.
