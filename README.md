@@ -6,10 +6,7 @@ This repository contains the code associated with the paper <a href="https://arx
 
 ## Repository Structure
 
-Certainly, here's the revised section for `Feasible_parameters` with the addition of `detF4.mat` and a brief explanation:
-
----
-
+### Feasible_parameters
 
 This folder is dedicated to identifying a feasible region of parameters for the DAGP algorithm, ensuring guaranteed convergence. It includes:
 
