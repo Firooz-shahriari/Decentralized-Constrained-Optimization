@@ -41,3 +41,7 @@ This section covers the experiments related to Decentralized Optimal Transport, 
 ## Dependencies and Environment Setup
 
 The `requirements.txt` file in this repository lists all the libraries and packages installed in the Anaconda environment used for developing and testing the experiments. It is important to note that this list may include more packages than are strictly necessary for running the experiments, as it reflects the entire environment setup.
+
+```bash
+pip install -r requirements.txt
+```
