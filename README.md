@@ -2,7 +2,7 @@
 
 # Decentralized-Constrained-Optimization
 
-This repository contains the code associated with the <a href="https://arxiv.org/abs/2210.03232">DAGP paper </a>, organized into distinct parts that correspond to different experiments of the paper. The codebase is divided into three main folders: `Feasible_parameters`, `LR_Synthetic`, and `OT`. Below is a detailed description of each part, including how to run the experiments and the structure of the folders.
+This repository contains the code associated with the paper <a href="https://arxiv.org/abs/2210.03232">"Double Averaging and Gradient Projection: Convergence Guarantees for Decentralized Constrained Optimization,"</a> organized into distinct parts that correspond to different experiments of the paper. The codebase is divided into three main folders: `Feasible_parameters`, `LR_Synthetic`, and `OT`. Below is a detailed description of each part, including how to run the experiments and the structure of the folders.
 
 ## Repository Structure
 
